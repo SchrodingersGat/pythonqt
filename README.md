@@ -111,7 +111,7 @@ Next, we need the PythonQt runtime.
 As a last step, we need to build the extensions.
 
 1. cd into `extensions`
-2. qmake `src.pro`
+2. qmake `extensions.pro`
 
    `qmake CONFIG+=Release extensions.pro`
 
